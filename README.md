@@ -33,6 +33,7 @@ def bfs(visited, graph, node):  # Function for BFS
 # Driver Code
 print("BFS order is")
 bfs(visited, graph, '2')
+```
 
 Output:
 
