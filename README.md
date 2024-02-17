@@ -36,7 +36,8 @@ bfs(visited, graph, '2')
 
 Output:
 
-![Screenshot (1)](https://github.com/Jayalakshm1/Breadth-First-Search/assets/130430542/78939f97-f530-4246-a4f0-e6ba525621a7)
+![image](https://github.com/Jayalakshm1/Breadth-First-Search/assets/130430542/d6c52699-e71c-4910-86dc-0c39fde19b00)
+
 
 Result:
 
